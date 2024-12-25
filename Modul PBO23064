@@ -1,0 +1,12 @@
+
+def tambah(Gaji_Kotor,Gaji_Bersih):
+    return (Gaji_Kotor+Gaji_Bersih)
+
+def kali(Gaji_Kotor,Gaji_Bersih):
+    return(Gaji_Kotor*Gaji_Bersih)
+
+def kurang(Gaji_Kotor,Gaji_Bersih):
+    return(Gaji_Kotor-Gaji_Bersih)
+
+def bagi(Gaji_Kotor,Gaji_Bersih):
+    return(Gaji_Kotor/Gaji_Bersih)    
