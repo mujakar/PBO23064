@@ -1,0 +1,10 @@
+from Modul import *
+
+print("kumpulan, menghitung Gaji_Kotor dan Gaji_bersih")
+Gaji_Kotor =int(input(" Gaji_Kotor: "))
+Gaji_Bersih =int(input("Gaji_bersih: "))
+
+print ("hasil Gaji_Kotor+Gaji_Bersih :" ,tambah (Gaji_Kotor,Gaji_Bersih))
+print ("hasil Gaji_Kotor*Gaji_Bersih :" ,kali (Gaji_Kotor,Gaji_Bersih))
+print ("hasil Gaji_Kotor-Gaji_Bersih :" ,kurang(Gaji_Kotor,Gaji_Bersih))
+print ("hasil Gaji_Kotor/Gaji_bersih :" ,bagi(Gaji_Kotor,Gaji_Bersih))
